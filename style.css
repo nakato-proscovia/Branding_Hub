@@ -44,7 +44,7 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(/images/Hero.jpg);
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(images/Hero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -335,7 +335,7 @@ button:hover {
 
 /* About Hero Section */
 .about {
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/images/about.jpg);
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(images/about.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -467,7 +467,7 @@ button:hover {
 /* Services Hero Section */
 .Services {
     /* background: url('/images/services-hero.jpg'); */
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/images/services.hero.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(images/services.hero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -624,7 +624,7 @@ button:hover {
 
 /* Contact Hero Section */
 .contact-hero {
-    background: linear-gradient(rgba(30, 64, 175, 0.8), rgba(30, 64, 175, 0.9)), url('/images/contact-hero.jpg');
+    background: linear-gradient(rgba(30, 64, 175, 0.8), rgba(30, 64, 175, 0.9)), url(images/contact-hero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
